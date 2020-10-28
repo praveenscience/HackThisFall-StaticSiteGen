@@ -1,0 +1,25 @@
+{
+  "name": "hackthisfall-staticsitegen",
+  "version": "1.0.0",
+  "description": "Static Site Generator created as a part of YouTube Live Stream in HackThisFall 2020.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://@github.com/praveenscience/HackThisFall-StaticSiteGen.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "JavaScript",
+    "HTML"
+  ],
+  "author": "Praveen Kumar Purushothaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenscience/HackThisFall-StaticSiteGen/issues"
+  },
+  "homepage": "https://github.com/praveenscience/HackThisFall-StaticSiteGen#readme"
+}
