@@ -3,28 +3,28 @@
     "Title": "Meaaaowww",
     "Subtitle": "Tom &amp; Jerry Tom",
     "ImageURL": "https://i.imgur.com/zYknUTn.png",
-    "AboutEvent": "AboutEvent",
+    "AboutEvent": "Tom and Jerry is an American animated franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera.",
     "DateTime": "2020-10-05 10:00 am"
   },
   {
     "Title": "Create a Static Site Generator",
     "Subtitle": "Praveen Kumar Purushothaman",
     "ImageURL": "https://i.imgur.com/JKkAzed.png",
-    "AboutEvent": "AboutEvent",
+    "AboutEvent": "Static site generator is very performant. This session is taken by Praveen from London.",
     "DateTime": "2020-10-28 4:30 pm"
   },
   {
     "Title": "Open Source &amp; Make Money!",
     "Subtitle": "Eddie Jaoude",
     "ImageURL": "https://i.imgur.com/0NzBwfK.png",
-    "AboutEvent": "AboutEvent",
+    "AboutEvent": "Eddie is Open Source God. He's gonna talk about how Open Source is gonna get you a lot of money!",
     "DateTime": "2020-10-29 5:30 pm"
   },
   {
     "Title": "Meaow Meaow Meaow!",
     "Subtitle": "Garfield",
     "ImageURL": "https://i.imgur.com/GmV4fnv.png",
-    "AboutEvent": "AboutEvent",
+    "AboutEvent": "Garfield is an American comic strip created by Jim Davis. Originally published locally as Jon in 1976, then in nationwide syndication from 1978 as Garfield, it chronicles the life of the title character, Garfield the cat; Jon Arbuckle, his human owner; and Odie, the dog.",
     "DateTime": "2020-10-15 10:00 am"
   }
 ]
