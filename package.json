@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/praveenscience/HackThisFall-StaticSiteGen/issues"
   },
-  "homepage": "https://github.com/praveenscience/HackThisFall-StaticSiteGen#readme"
+  "homepage": "https://github.com/praveenscience/HackThisFall-StaticSiteGen#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
